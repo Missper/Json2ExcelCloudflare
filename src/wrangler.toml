@@ -1,0 +1,4 @@
+name = "testworker"
+main = "src/index.js"
+compatibility_date = "2023-08-23"
+

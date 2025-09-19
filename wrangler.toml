@@ -1,0 +1,6 @@
+name = "testworker"
+main = "src/src/index.js"
+workers_dev = true
+preview_urls = true
+compatibility_date = "2023-08-23"
+
